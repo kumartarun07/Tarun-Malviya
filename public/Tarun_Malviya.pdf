@@ -1,0 +1,202 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R >> >> /Contents 7 0 R >> endobj
+4 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+6 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >> endobj
+7 0 obj << /Length 3800 >> stream
+BT
+/F1 22 Tf
+50 740 Td
+(TARUN MALVIYA) Tj
+ET
+BT
+/F3 10 Tf
+50 722 Td
+(Flutter Developer | Cross-Platform Mobile Application Development \(Android & iOS\)) Tj
+ET
+BT
+/F5 9 Tf
+/F2 9 Tf
+50 706 Td
+(+91 905-731-1290  |  tarungehlotkantaliya@gmail.com  |  linkedin.com/in/tarun-malviya-developer  |  Jodhpur, India) Tj
+ET
+0 0 0 rg
+50 696 m 562 696 l S
+BT
+/F1 11 Tf
+50 680 Td
+(PROFESSIONAL SUMMARY) Tj
+ET
+BT
+/F2 9 Tf
+50 664 Td
+(Flutter Developer with 1.5+ years hands-on experience building and shipping cross-platform Android/iOS applications) Tj
+50 651 Td
+(across real estate, job portal, and tourism domains. Proficient in Flutter, Dart, GetX, and Bloc for state management,) Tj
+50 638 Td
+(with practical experience integrating Firebase Authentication, REST APIs, Google Maps, and local storage \(Sqflite/Hive\).) Tj
+50 625 Td
+(Has taken multiple applications from development through to Google Play Store and Apple App Store deployment.) Tj
+ET
+50 613 m 562 613 l S
+BT
+/F1 11 Tf
+50 598 Td
+(TECHNICAL SKILLS) Tj
+ET
+BT
+/F1 9 Tf
+50 582 Td
+(Mobile Development:) Tj
+/F2 9 Tf
+160 582 Td
+(Flutter, Dart, Cross-Platform App Development, Mobile UI/UX, Material 3, Cupertino) Tj
+/F1 9 Tf
+50 568 Td
+(State Management:) Tj
+/F2 9 Tf
+160 568 Td
+(GetX, Bloc, Provider, Cubit, Clean Architecture) Tj
+/F1 9 Tf
+50 554 Td
+(Backend & APIs:) Tj
+/F2 9 Tf
+160 554 Td
+(REST API Integration, Firebase Authentication, Cloud Firestore, FCM Push Notifications) Tj
+/F1 9 Tf
+50 540 Td
+(Database & Storage:) Tj
+/F2 9 Tf
+160 540 Td
+(Sqflite, Hive, Local Storage / Data Persistence, Shared Preferences) Tj
+/F1 9 Tf
+50 526 Td
+(Tools & Deployment:) Tj
+/F2 9 Tf
+160 526 Td
+(Git, GitHub, Android Studio, Google Maps API, Google Play Store Deployment, Apple App Store) Tj
+/F1 9 Tf
+50 512 Td
+(Payment Gateways:) Tj
+/F2 9 Tf
+160 512 Td
+(Razorpay Payment Gateway) Tj
+/F1 9 Tf
+50 498 Td
+(Deep Linking:) Tj
+/F2 9 Tf
+160 498 Td
+(Firebase Dynamic Links, App Links & Universal Links) Tj
+/F1 9 Tf
+50 484 Td
+(Analytics & Monitoring:) Tj
+/F2 9 Tf
+160 484 Td
+(Firebase Analytics, Crashlytics) Tj
+ET
+50 472 m 562 472 l S
+BT
+/F1 11 Tf
+50 457 Td
+(PROFESSIONAL EXPERIENCE) Tj
+ET
+BT
+/F1 10 Tf
+50 441 Td
+(Flutter Developer | Next Big Technology \(NBT\)) Tj
+/F3 9 Tf
+380 441 Td
+(Nov 2024 - Mar 2026 | Jodhpur, India) Tj
+ET
+BT
+/F1 9.5 Tf
+50 425 Td
+(Real Estate Mobile Application) Tj
+/F2 8.5 Tf
+50 412 Td
+(- Built core platform features in Flutter and GetX, including property search and filtering, dynamic listings, and Google Maps-based location browsing.) Tj
+50 400 Td
+(- Integrated Firebase Authentication and REST APIs to support secure user sign-in and live property data; added push notifications for listing updates.) Tj
+50 388 Td
+(- Optimized app performance for both Android and iOS ahead of production release; deployed the application to Google Play Store and Apple App Store.) Tj
+ET
+BT
+/F1 9.5 Tf
+50 368 Td
+(Talento India - Job Portal App) Tj
+/F2 8.5 Tf
+50 355 Td
+(- Implemented job listing and search functionality in Flutter using GetX, backed by REST API integration for real-time job data.) Tj
+50 343 Td
+(- Built real-time chat functionality using Firebase, enabling direct communication between recruiters and candidates on the platform.) Tj
+50 331 Td
+(- Added Firebase Authentication for account management and contributed UI performance improvements ahead of publishing to Play Store and App Store.) Tj
+ET
+BT
+/F1 9.5 Tf
+50 311 Td
+(Verona In Tour - Tourism App) Tj
+/F2 8.5 Tf
+50 298 Td
+(- Developed the tourism application in Flutter and GetX, integrating REST APIs to deliver dynamic tour and destination content.) Tj
+50 286 Td
+(- Managed application data flow and optimized performance for a smooth cross-platform user experience; deployed to Play Store and App Store.) Tj
+ET
+50 274 m 562 274 l S
+BT
+/F1 11 Tf
+50 259 Td
+(KEY ACADEMIC & FEATURED PROJECTS) Tj
+ET
+BT
+/F1 9.5 Tf
+50 243 Td
+(Offline Expense Tracker App \(BLoC Pattern + Sqflite\)) Tj
+/F2 8.5 Tf
+50 230 Td
+(- Built an offline-first expense management app in Flutter using the Bloc pattern for state management and Sqflite for local data persistence.) Tj
+50 218 Td
+(- Implemented interactive analytics graphs to visualize spending patterns and monthly trends for users without requiring an internet connection.) Tj
+ET
+BT
+/F1 9.5 Tf
+50 198 Td
+(Wallpaper Hub App \(Platform Channels + REST API\)) Tj
+/F2 8.5 Tf
+50 185 Td
+(- Developed a Flutter application integrating third-party APIs for wallpaper search, preview, and categorized high-res image download.) Tj
+50 173 Td
+(- Implemented device wallpaper setup functionality \(home screen / lock screen\) directly from within the app using native platform channels.) Tj
+ET
+50 161 m 562 161 l S
+BT
+/F1 11 Tf
+50 146 Td
+(EDUCATION) Tj
+ET
+BT
+/F1 9.5 Tf
+50 130 Td
+(Bachelor of Computer Application \(BCA\)) Tj
+/F2 9 Tf
+240 130 Td
+(- Jai Narayan Vyas University, Jodhpur \(2019\)) Tj
+ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000248 00000 n 
+0000000329 00000 n 
+0000000405 00000 n 
+0000000489 00000 n 
+trailer << /Size 8 /Root 1 0 R >>
+startxref
+4340
+%%EOF

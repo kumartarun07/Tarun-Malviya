@@ -1,0 +1,90 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    background-color: #030E0D;
+    color: #ffffff;
+  }
+
+  code, pre, .font-mono {
+    font-family: 'Space Grotesk', monospace;
+  }
+}
+
+@keyframes portraitFall {
+  0% {
+    opacity: 0;
+    transform: translateY(-90px) scale(0.7) rotate(-6deg);
+    filter: blur(8px);
+  }
+  65% {
+    opacity: 1;
+    transform: translateY(6px) scale(1.04) rotate(1.5deg);
+    filter: blur(0px);
+  }
+  85% {
+    transform: translateY(-2px) scale(0.99) rotate(-0.5deg);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1) rotate(0deg);
+    filter: blur(0px);
+  }
+}
+
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 25px rgba(0, 201, 167, 0.25);
+  }
+  50% {
+    box-shadow: 0 0 45px rgba(0, 137, 123, 0.5);
+  }
+}
+
+@keyframes shimmerMask {
+  0% {
+    -webkit-mask-position: 0% 0;
+    mask-position: 0% 0;
+  }
+  100% {
+    -webkit-mask-position: 200% 0;
+    mask-position: 200% 0;
+  }
+}
+
+.animate-shimmer-mask {
+  position: relative;
+  -webkit-mask: linear-gradient(90deg, transparent 0, #000 25%, #000 75%, transparent 100%) 0 0/200% 100% repeat;
+  mask: linear-gradient(90deg, transparent 0, #000 25%, #000 75%, transparent 100%) 0 0/200% 100% repeat;
+  animation: shimmerMask 4s ease-in-out infinite;
+}
+
+.border-gradient {
+  position: relative;
+}
+
+.border-gradient::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  padding: 1px;
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  background: linear-gradient(135deg, rgba(0, 201, 167, 0.45) 0%, rgba(255, 255, 255, 0.12) 50%, rgba(0, 137, 123, 0.35) 100%);
+  pointer-events: none;
+}
+
+.glow-teal {
+  text-shadow: 0 0 30px rgba(0, 201, 167, 0.35);
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
